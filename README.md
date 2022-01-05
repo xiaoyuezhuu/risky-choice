@@ -1,2 +1,2 @@
 # risky-choice
-A repository containing codes related to the risky choice task itself
+A repository containing codes for a side-independent risky choice task. 
